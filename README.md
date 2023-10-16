@@ -1,4 +1,4 @@
-# People_counting_system
+# Jamaah_counting_system
 Monitoring Jamaah Number Who want to Pray at Religion Lab UIN SUNAN KALIJAGA
 
 If you would like to see the complete results, please open the ['videoJamaahCounter.mp4'](https://youtu.be/GjlRcNkxess?si=t7BvERmaeV8rHJ05) file.
@@ -7,7 +7,7 @@ If you would like to see the complete results, please open the ['videoJamaahCoun
 - `coco.txt`: Contains class names used for object detection.
 - `masjidCounter.mp4`: Sample video file for jamaah counting system. [Full Video](https://youtu.be/yzLhdqINcas)
 - `videoJamaahCounter.mp4` : Video Results of Jamaah Prayer at Religion Laboratorium at UIN Sunan Kalijaga. [Full Video](https://youtu.be/GjlRcNkxess)
-- `main (2).py`: main.py or Python script for People Counting system using YOLO.
+- `main (2).py`: main.py or Python script for Jamaah Counting system using YOLO.
 - `README.md`: This file, providing information about the repository.
 - `tracker.py`: Python script containing the custom Tracker class for object tracking.
 - `yolov8s.pt`: Pretrained weight file used for the YOLO model.
