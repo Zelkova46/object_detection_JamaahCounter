@@ -3,7 +3,7 @@ Monitoring Jamaah Number Who want to Pray at Religion Lab UIN SUNAN KALIJAGA
 
 https://github.com/tirtaagungjati/people_counting_system/assets/65837182/c887444a-bbfc-404b-8927-717697ecea24
 
-If you would like to see the complete results, please open the ['videoJamaahCounter.mp4'](https://github.com/tirtaagungjati/people_counting_system/blob/main/people_counting_system_lab_uin.mp4) file.
+If you would like to see the complete results, please open the ['videoJamaahCounter.mp4'](https://youtu.be/GjlRcNkxess?si=t7BvERmaeV8rHJ05) file.
 
 ## Files
 - `coco.txt`: Contains class names used for object detection.
