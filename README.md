@@ -5,8 +5,8 @@ If you would like to see the complete results, please open the ['videoJamaahCoun
 
 ## Files
 - `coco.txt`: Contains class names used for object detection.
-- `masjidCounter.mp4`: Sample video file for jamaah counting system.
-- `people_counting_system_lab_uin.mp4` : "Video Results of People Counting System"
+- `masjidCounter.mp4`: Sample video file for jamaah counting system. [Full Video](https://youtu.be/yzLhdqINcas)
+- `videoJamaahCounter.mp4` : Video Results of Jamaah Prayer at Religion Laboratorium at UIN Sunan Kalijaga. [Full Video](https://youtu.be/GjlRcNkxess)
 - `main (2).py`: main.py or Python script for People Counting system using YOLO.
 - `README.md`: This file, providing information about the repository.
 - `tracker.py`: Python script containing the custom Tracker class for object tracking.
