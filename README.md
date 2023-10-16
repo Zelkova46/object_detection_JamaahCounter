@@ -13,7 +13,7 @@ If you would like to see the complete results, please open the ['videoJamaahCoun
 - `yolov8s.pt`: Pretrained weight file used for the YOLO model.
   
 # Prerequisites
-You need to install this package before you run kasus1.py:
+You need to install this package before you run main (2).py:
 * Python : You can access this link to install [python](https://www.python.org/downloads/) and using [pip](https://pypi.org/project/pip/) for installing  packages/libraries
 * CV2 : 
   ```bash
